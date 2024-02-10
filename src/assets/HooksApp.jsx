@@ -1,11 +1,11 @@
-import { UsuariosComponent } from "../components/UsuariosComponent";
+import { FormularioComponent } from "../components/FormularioComponent";
 
 export const HooksApp = () => {
   return (
     <>
       <h1>Aplicación de Hooks</h1>
       <hr />
-      <UsuariosComponent></UsuariosComponent>
+      <FormularioComponent></FormularioComponent>
     </>
   );
 };
